@@ -42,7 +42,7 @@
       <dataSource type="POOLED">
         <property name="driver" value="com.mysql.cj.jdbc.Driver" />
         <property name="url"
-                  value="jdbc:mysql:///zdy_mybatis?useSSL=false&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC" />
+                  value="jdbc:mysql://127.0.0.1:3306/test1?useSSL=false&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC" />
         <property name="username" value="root" />
         <property name="password" value="root" />
       </dataSource>
